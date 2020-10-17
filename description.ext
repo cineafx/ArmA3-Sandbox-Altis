@@ -1,0 +1,18 @@
+
+
+#include "CHVD\dialog.hpp"
+
+class CfgFunctions {
+    #include "CHVD\CfgFunctions.hpp"
+	#include "FETT_ZeusShare\CfgFunctions.hpp"
+	    class FETT {
+        class curator {
+            class eventHandlers {postInit = 1;};
+            class objPlaced {};
+            class grpPlaced {};
+        };
+    };
+
+};  
+
+
